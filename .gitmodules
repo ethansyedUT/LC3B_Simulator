@@ -1,0 +1,18 @@
+[submodule "ECE460N_ComputerArchitecture_Lab1"]
+	path = ECE460N_ComputerArchitecture_Lab1
+	url = https://github.com/ethansyedUT/ECE460N_ComputerArchitecture_Lab1
+[submodule "ECE460N_ComputerArchitecture_Lab2"]
+	path = ECE460N_ComputerArchitecture_Lab2
+	url = https://github.com/ethansyedUT/ECE460N_ComputerArchitecture_Lab2
+[submodule "ECE460N_ComputerArchitecture_Lab3"]
+	path = ECE460N_ComputerArchitecture_Lab3
+	url = https://github.com/ethansyedUT/ECE460N_ComputerArchitecture_Lab3
+[submodule "ECE460N_ComputerArchitecture_Lab4"]
+	path = ECE460N_ComputerArchitecture_Lab4
+	url = https://github.com/ethansyedUT/ECE460N_ComputerArchitecture_Lab4
+[submodule "ECE460N_ComputerArchitecture_Lab5"]
+	path = ECE460N_ComputerArchitecture_Lab5
+	url = https://github.com/ethansyedUT/ECE460N_ComputerArchitecture_Lab5
+[submodule "ECE460N_ComputerArchitecture_Lab6"]
+	path = ECE460N_ComputerArchitecture_Lab6
+	url = https://github.com/ethansyedUT/ECE460N_ComputerArchitecture_Lab6
